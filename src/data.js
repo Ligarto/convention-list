@@ -10,5 +10,5 @@ export default {
 
     getSinglePage(index){
         return pagesStore[index];
-    }
+    },
 }

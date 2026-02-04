@@ -5,21 +5,43 @@
         <div class="container-fluid">
             <a class="navbar-brand" href="#">Convention</a>
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">         
-                <navbar-link
-                    v-for="(page, index) in publishedPages" 
-                    class="nav-item" 
-                    :page="page"
-                    :index="index"
-                ></navbar-link>
 
                 <li>
                     <router-link 
-                        to="/pages"
+                        to="/"
                         class="nav-link"
                         active-class="active"
                         aria-current="page"
-                    >Pages</router-link>
+                    >Home</router-link>
                 </li>
+
+                <li>
+                    <router-link 
+                        to="/list"
+                        class="nav-link"
+                        active-class="active"
+                        aria-current="page"
+                    >The List</router-link>
+                </li>
+
+                <li>
+                    <router-link 
+                        to="/bawlzapher"
+                        class="nav-link"
+                        active-class="active"
+                        aria-current="page"
+                    >Our Hero</router-link>
+                </li>
+
+                <li>
+                    <router-link 
+                        to="/zapherwiki"
+                        class="nav-link"
+                        active-class="active"
+                        aria-current="page"
+                    >Wiki</router-link>
+                </li>
+
 
             </ul>
             <form class="d-flex">
@@ -33,12 +55,8 @@
 </template>
 
 <script>
-import NavbarLink from './NavbarLink.vue';
 
 export default {
-    components:{
-        NavbarLink
-    },
     inject:["$pages"],
     created(){
         this.getThemeSetting();

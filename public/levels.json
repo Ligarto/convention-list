@@ -1,31 +1,30 @@
-[
-{
+[{
     "name":"Cobwebs",
-    "video":"https://youtu.be/iik25wqIuFo?si=4N2gtZ83lgsAWWcc",
-    "difficulty":"Super hard idk",
+    "video":"https://www.youtube.com/embed/iEznd6B-uig",
+    "difficulty":"NLW Inexorable Tier",
     "completions":[
         {
-            "victor":"Bawl_Zapher",
-            "video":"https://youtu.be/iik25wqIuFo?si=4N2gtZ83lgsAWWcc",
-            "word":"cheese"
+            "victor":"BCraftLM",
+            "video":"javascript:void(0)",
+            "word":"Web"
         }
     ]
 },
 {
     "name":"Paroxysm",
-    "video":"https://youtu.be/iik25wqIuFo?si=4N2gtZ83lgsAWWcc",
-    "difficulty":"Super hard idk",
+    "video":"https://www.youtube.com/embed/0ochUZRrESM",
+    "difficulty":"NLW Remorseless Tier",
     "completions":[
         {
-            "victor":"Bawl_Zapher",
-            "video":"https://youtu.be/iik25wqIuFo?si=4N2gtZ83lgsAWWcc",
+            "victor":"BCraftLM",
+            "video":"javascript:void(0)",
             "word":"cheese"
         }
     ]
 },
 {
     "name":"Killbot",
-    "video":"https://youtu.be/iik25wqIuFo?si=4N2gtZ83lgsAWWcc",
+    "video":"https://www.youtube.com/embed/_HjOBAFo5nc",
     "difficulty":"Super hard idk",
     "completions":[
         {
@@ -37,11 +36,16 @@
 },
 {
     "name":"Artificial",
-    "video":"https://youtu.be/iik25wqIuFo?si=4N2gtZ83lgsAWWcc",
+    "video":"https://www.youtube.com/embed/CTfAn-6trNQ?list=RDiik25wqIuFo",
     "difficulty":"Super hard idk",
     "completions":[
         {
             "victor":"Bawl_Zapher",
+            "video":"https://youtu.be/iik25wqIuFo?si=4N2gtZ83lgsAWWcc",
+            "word":"cheese"
+        },
+        {
+            "victor":"me",
             "video":"https://youtu.be/iik25wqIuFo?si=4N2gtZ83lgsAWWcc",
             "word":"cheese"
         }
@@ -70,5 +74,4 @@
             "word":"cheese"
         }
     ]
-}
-]
+}]
