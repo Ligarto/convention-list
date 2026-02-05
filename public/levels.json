@@ -6,7 +6,7 @@
         {
             "victor":"BCraftLM",
             "video":"javascript:void(0)",
-            "word":"Web"
+            "word":"404"
         }
     ]
 },
@@ -18,60 +18,68 @@
         {
             "victor":"BCraftLM",
             "video":"javascript:void(0)",
-            "word":"cheese"
+            "word":"404"
         }
     ]
 },
 {
     "name":"Killbot",
-    "video":"https://www.youtube.com/embed/_HjOBAFo5nc",
-    "difficulty":"Super hard idk",
+    "video":"https://www.youtube.com/embed/DraDpi4bM-Y?list=RDDraDpi4bM-Y",
+    "difficulty":"NLW Remorseless Tier",
     "completions":[
         {
-            "victor":"Bawl_Zapher",
-            "video":"https://youtu.be/iik25wqIuFo?si=4N2gtZ83lgsAWWcc",
-            "word":"cheese"
+            "victor":"Microwave",
+            "video":"https://youtu.be/S06ohwLvvZ4?si=_cianZH5jIsxWhJ0",
+            "word":"404"
         }
     ]
 },
 {
-    "name":"Artificial",
-    "video":"https://www.youtube.com/embed/CTfAn-6trNQ?list=RDiik25wqIuFo",
-    "difficulty":"Super hard idk",
+    "name":"Artificial Ascent",
+    "video":"https://www.youtube.com/embed/laok-nI3-t8",
+    "difficulty":"NLW Remorseless Tier",
     "completions":[
         {
-            "victor":"Bawl_Zapher",
-            "video":"https://youtu.be/iik25wqIuFo?si=4N2gtZ83lgsAWWcc",
-            "word":"cheese"
-        },
-        {
-            "victor":"me",
-            "video":"https://youtu.be/iik25wqIuFo?si=4N2gtZ83lgsAWWcc",
-            "word":"cheese"
+            "victor":"Ligarto",
+            "video":"javascript:void(0)",
+            "word":"hard"
         }
     ]
 },
 {
-    "name":"Budding",
-    "video":"https://youtu.be/iik25wqIuFo?si=4N2gtZ83lgsAWWcc",
-    "difficulty":"Super hard idk",
+    "name":"Budding Roses",
+    "video":"https://www.youtube.com/embed/UOgc-peqdvM",
+    "difficulty":"NLW Remorseless Tier",
     "completions":[
         {
-            "victor":"Bawl_Zapher",
-            "video":"https://youtu.be/iik25wqIuFo?si=4N2gtZ83lgsAWWcc",
-            "word":"cheese"
+            "victor":"Sunward",
+            "video":"javascript:void(0)",
+            "word":"404"
         }
     ]
 },
 {
     "name":"Black Blizzard",
-    "video":"https://youtu.be/iik25wqIuFo?si=4N2gtZ83lgsAWWcc",
-    "difficulty":"Super hard idk",
+    "video":"https://www.youtube.com/embed/lsT5TjQ1Ubc",
+    "difficulty":"NLW Extreme Tier",
     "completions":[
         {
-            "victor":"Bawl_Zapher",
-            "video":"https://youtu.be/iik25wqIuFo?si=4N2gtZ83lgsAWWcc",
-            "word":"cheese"
+            "victor":"BCraftLM",
+            "video":"javascript:void(0)",
+            "word":"404"
         }
     ]
-}]
+},
+{
+    "name":"lodin da fish washer",
+    "video":"https://www.youtube.com/embed/gmOE2qlcHXg",
+    "difficulty":"NLW Extreme Tier",
+    "completions":[
+        {
+            "victor":"BCraftLM",
+            "video":"javascript:void(0)",
+            "word":"404"
+        }
+    ]
+}
+]
