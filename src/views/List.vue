@@ -45,7 +45,10 @@
                         >
                             <td>{{ completion.victor }}</td>
                             <td>{{ completion.word }}</td>
-                            <td><a :href="completion.video" target="_blank">Watch</a></td>
+                            <td>
+                                <a v-if="completion.video != 'javascript:void(0)'" :href="completion.video" target="_blank">Watch</a>
+                                <p v-else>No video</p>
+                            </td>
                         </tr>
                     </tbody>
                 </table>

@@ -81,5 +81,34 @@
             "word":"404"
         }
     ]
+},
+{
+    "name":"Blade of Justice",
+    "video":"https://www.youtube.com/embed/6018CbEjA-4",
+    "difficulty":"NLW Very Hard Tier",
+    "completions":[
+        {
+            "victor":"Sunward",
+            "video":"javascript:void(0)",
+            "word":"404"
+        },
+        {
+            "victor":"Microwave",
+            "video":"https://youtu.be/e77HigIVvvM?si=r70lztrmNUSCrJEC",
+            "word":"404"
+        }
+    ]
+},
+{
+    "name":"Asmodeus",
+    "video":"https://www.youtube.com/embed/_ZTRm2ZnQY8",
+    "difficulty":"NLW Very Hard Tier",
+    "completions":[
+        {
+            "victor":"BCraftLM",
+            "video":"javascript:void(0)",
+            "word":"404"
+        }
+    ]
 }
 ]
