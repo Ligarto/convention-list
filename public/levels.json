@@ -188,12 +188,12 @@
 },
 {
     "name":"A Bizarre Phantasm",
-    "video":"https://www.youtube.com/embed/sDTF_FS6vDE?si=9ng2bCl8rlkkPy-W",
+    "video":"https://www.youtube.com/embed/zhn7PhJjRSE?si=NZjC3IgwwSi4oko0",
     "difficulty":"NLW Hard Tier",
     "completions":[
         {
             "victor":"Microwave",
-            "video":"javascript:void(0)",
+            "video":"https://youtu.be/M7Ckp0RqB68",
             "word":"404"
         }
     ]
@@ -214,6 +214,66 @@
     "name":"Aftermath",
     "video":"https://www.youtube.com/embed/TchxHn1nm4g?si=ANMCJbMdNXTLiZtV",
     "difficulty":"NLW Hard Tier",
+    "completions":[
+        {
+            "victor":"BCraftLM",
+            "video":"javascript:void(0)",
+            "word":"404"
+        }
+    ]
+},
+{
+    "name":"KINGSLAYER",
+    "video":"https://www.youtube.com/embed/U97P4zz_obo?si=Toq_KLpVXR2diKz1",
+    "difficulty":"NLW Medium Tier",
+    "completions":[
+        {
+            "victor":"BCraftLM",
+            "video":"javascript:void(0)",
+            "word":"404"
+        }
+    ]
+},
+{
+    "name":"Wave Breaker",
+    "video":"https://www.youtube.com/embed/P0iLfttm7aM?si=1ipci428IsESS-Qr",
+    "difficulty":"NLW Medium Tier",
+    "completions":[
+        {
+            "victor":"BCraftLM",
+            "video":"javascript:void(0)",
+            "word":"404"
+        }
+    ]
+},
+{
+    "name":"Maybe Possibly Thing",
+    "video":"https://www.youtube.com/embed/50sa63uGb24?si=3GXrzXqfGeaFoANC",
+    "difficulty":"NLW Medium Tier",
+    "completions":[
+        {
+            "victor":"Microwave",
+            "video":"javascript:void(0)",
+            "word":"404"
+        }
+    ]
+},
+{
+    "name":"Concaved Memories",
+    "video":"https://www.youtube.com/embed/LYZNu469ThQ?si=RRKJYrwNQc7DdPmt",
+    "difficulty":"NLW Medium Tier",
+    "completions":[
+        {
+            "victor":"BCraftLM",
+            "video":"javascript:void(0)",
+            "word":"404"
+        }
+    ]
+},
+{
+    "name":"Broken Signal",
+    "video":"https://www.youtube.com/embed/hE4unVwBeD8?si=a1ZLa2SIt61KfzPi",
+    "difficulty":"NLW Begginer Tier",
     "completions":[
         {
             "victor":"BCraftLM",
