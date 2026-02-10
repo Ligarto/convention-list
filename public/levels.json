@@ -110,5 +110,41 @@
             "word":"404"
         }
     ]
+},
+{
+    "name":"Ruler of Everything",
+    "video":"https://www.youtube.com/embed/nJlzbe_hyO4",
+    "difficulty":"NLW Hard Tier",
+    "completions":[
+        {
+            "victor":"Ligarto",
+            "video":"javascript:void(0)",
+            "word":"Unbalanced"
+        }
+    ]
+},
+{
+    "name":"Gravity",
+    "video":"https://www.youtube.com/embed/Ba4PkcqiZa4",
+    "difficulty":"NLW Very Hard Tier",
+    "completions":[
+        {
+            "victor":"Sunward",
+            "video":"javascript:void(0)",
+            "word":"404"
+        }
+    ]
+},
+{
+    "name":"Moment",
+    "video":"https://www.youtube.com/embed/bLfKsN4NCNY?list=RDbLfKsN4NCNY",
+    "difficulty":"NLW Very Hard Tier",
+    "completions":[
+        {
+            "victor":"BCraftLM",
+            "video":"javascript:void(0)",
+            "word":"404"
+        }
+    ]
 }
 ]
