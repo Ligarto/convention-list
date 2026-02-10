@@ -144,6 +144,81 @@
             "victor":"BCraftLM",
             "video":"javascript:void(0)",
             "word":"404"
+        },
+        {
+            "victor":"Sunward",
+            "video":"javascript:void(0)",
+            "word":"404"
+        }
+    ]
+},
+{
+    "name":"Bloodbath",
+    "video":"https://www.youtube.com/embed/twTw4fjT0ik?si=0x-uZIXMsI69M30m",
+    "difficulty":"NLW Very Hard Tier",
+    "completions":[
+        {
+            "victor":"BCraftLM",
+            "video":"javascript:void(0)",
+            "word":"404"
+        },
+        {
+            "victor":"Su Tart",
+            "video":"javascript:void(0)",
+            "word":"404"
+        },
+        {
+            "victor":"Ligarto",
+            "video":"javascript:void(0)",
+            "word":"hard"
+        }
+    ]
+},
+{
+    "name":"Idols",
+    "video":"https://www.youtube.com/embed/sDTF_FS6vDE?si=9ng2bCl8rlkkPy-W",
+    "difficulty":"NLW Hard Tier",
+    "completions":[
+        {
+            "victor":"BCraftLM",
+            "video":"javascript:void(0)",
+            "word":"404"
+        }
+    ]
+},
+{
+    "name":"A Bizarre Phantasm",
+    "video":"https://www.youtube.com/embed/sDTF_FS6vDE?si=9ng2bCl8rlkkPy-W",
+    "difficulty":"NLW Hard Tier",
+    "completions":[
+        {
+            "victor":"Microwave",
+            "video":"javascript:void(0)",
+            "word":"404"
+        }
+    ]
+},
+{
+    "name":"HURT",
+    "video":"https://www.youtube.com/embed/w_bP5mKeyII?list=RDw_bP5mKeyII",
+    "difficulty":"Hard",
+    "completions":[
+        {
+            "victor":"BCraftLM",
+            "video":"javascript:void(0)",
+            "word":"404"
+        }
+    ]
+},
+{
+    "name":"Aftermath",
+    "video":"https://www.youtube.com/embed/TchxHn1nm4g?si=ANMCJbMdNXTLiZtV",
+    "difficulty":"NLW Hard Tier",
+    "completions":[
+        {
+            "victor":"BCraftLM",
+            "video":"javascript:void(0)",
+            "word":"404"
         }
     ]
 }
