@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-6 bg-light">
                 <p>
-                    This is the home page of the Convention. At its core, <i>the convention</i> is a celebration of friendship, focus, and a shared love for pushing limits—both in videogames and in Geometry Dash’s most brutal levels. What started as a casual friend group playing games together has grown into a tight-knit crew bonded by late-night sessions, clutch moments, and the collective grind of mastering insanely hard challenges. Whether it’s hyping each other up after a near-perfect run or laughing off yet another fail at 98%, the convention captures that energy: friends coming together to test skill, patience, and persistence, all while having a genuinely good time doing it.
+                    This is the home page of the Convention's website. At its core, <i>the convention</i> is a celebration of friendship, focus, and a shared love for pushing limits—both in videogames and in Geometry Dash’s most brutal levels. What started as a casual friend group playing games together has grown into a tight-knit crew bonded by late-night sessions, clutch moments, and the collective grind of mastering insanely hard challenges. Whether it’s hyping each other up after a near-perfect run or laughing off yet another fail at 98%, the convention captures that energy: friends coming together to test skill, patience, and persistence, all while having a genuinely good time doing it.
                 </p>
             </div>
             <div class="col-md-6">
