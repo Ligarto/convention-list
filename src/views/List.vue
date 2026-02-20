@@ -9,7 +9,9 @@
     <br>
     <div class="container mb-3">
         <div class="row">
-            <div class="col-6 col-md-3">
+            <div class="col-md-3"
+                style="overflow-y: auto;
+                       height: 38vw; ">
                 <div class="mb-3" v-for="(level, index) in levels">
                     <button 
                     class="btn w-100 mb-2"
@@ -18,7 +20,10 @@
                     >{{ (index>74 ? "Legacy" : (index+1).toString())+" - "+ levels[index].name }}</button>
                 </div>
             </div>
-            <div class="col-6">
+            <div class="col-6"
+                style="overflow-y: auto;
+                       height: 38vw;
+                       width:auto ">
 
                 <h2>{{ activeLevel == -1 ? "Select a level" : (levels[activeLevel].name + " (" + levels[activeLevel].difficulty + ")" ) }}</h2>
 

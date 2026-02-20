@@ -1,9 +1,20 @@
 <template>
     <div style="align-items: center; text-align: center;">
         <h1>This is our hero Bawl_Zapher</h1>
-        <router-link to="/">
-            <img src="../assets/Bawl.webp" alt="BAwl" height="800px" width="600px">
-        </router-link>
+
+        <img 
+            src="../assets/Bawl.webp" 
+            alt="BAwl" 
+            height="788px" width="620px"
+            usemap="#zapher"
+        >
+
+        <map name="zapher">
+            <area target="_blank" alt="reddit" title="reddit" href="https://www.reddit.com/r/bawl_zapher/" coords="388,22,24" shape="circle">
+            <area target="_self" alt="List" title="List" href="https://convention-list.pages.dev/#/list" coords="218,450,542,482,542,758,136,706" shape="poly">
+            <area target="_self" alt="Wiki" title="Wiki" href="https://convention-list.pages.dev/#/zapherwiki" coords="306,52,376,76,400,110,414,196,426,266,382,398,310,426,250,400,196,286,208,196,222,106,246,68" shape="poly">
+            <area target="_self" alt="Home" title="Home" href="https://convention-list.pages.dev/#/" coords="72,368,0,468,0,780,58,752,96,680,86,526,138,528,158,508,154,482,84,470,86,398,114,358" shape="poly">   
+        </map>
         
         <h3>Biggest Supporters</h3>
         <table class="table table-hover">

@@ -1,5 +1,6 @@
 <template>
     <nav 
+        class="sticky-top"
         :class="[`bg-${theme}`, `navbar-${theme}`, 'navbar', 'navbar-expand-lg']"
     >
         <div class="container-fluid">
