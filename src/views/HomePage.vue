@@ -25,8 +25,7 @@
             </div>
             <div class="col-md-6 bg-light">
                 <br>
-                <router-link to="/list">The list</router-link>
-                <p> exists as a way to track and recognize the toughest <strong>Geometry Dash</strong> levels conquered by members of the convention. It serves as a clear, organized record of the hardest challenges beaten, highlighting both individual progress and the overall skill of the group. More than just rankings, the list represents dedication, consistency, and the countless hours spent learning patterns, refining muscle memory, and pushing past limits that once seemed impossible.
+                <p><a href="https://convention-list.pages.dev/#/list">The list</a> exists as a way to track and recognize the toughest <abbr title="Geometry Dash">GD</abbr> levels conquered by members of the convention. It serves as a clear, organized record of the hardest challenges beaten, highlighting both individual progress and the overall skill of the group. More than just rankings, the list represents dedication, consistency, and the countless hours spent learning patterns, refining muscle memory, and pushing past limits that once seemed impossible.
                 </p>
             </div>
         </div> 
